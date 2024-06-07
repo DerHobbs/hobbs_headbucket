@@ -11,7 +11,7 @@
 
 - Script Description in German
 
-Dieses Skript verwaltet die Fähigkeit eines Spielers, sich zu befreien, wenn er in RedM gefesselt ist. Es führt die folgenden Funktionen aus:
+- Dieses Skript verwaltet die Fähigkeit eines Spielers, sich zu befreien, wenn er in RedM gefesselt ist. Es führt die folgenden Funktionen aus:
 
     Fesselungserkennung: Überprüft kontinuierlich, ob der Spieler gefesselt ist, mithilfe der IS_PED_HOGTIED-Native-Funktion.
     Überprüfung auf nahegelegene Spieler: Bestimmt, ob sich andere Spieler im Umkreis von 30 Metern befinden.
